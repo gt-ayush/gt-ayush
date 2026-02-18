@@ -1,7 +1,7 @@
 # ⚡ Ayush | The Chaos Learner 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20I'm%20Ayush&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hii!%20%20I'm%20Ayush&fontSize=50&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 About Me
