@@ -1,7 +1,7 @@
-# ⚡ Ayush | The Chaos Learner 
+# ⚡ gt-ayush | The Chaos Learner 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hii!%20%20I'm%20Ayush&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hii!%20I'm%20Ayush&fontSize=50&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 About Me
@@ -40,7 +40,7 @@ I don't just write code; I **orchestrate systems**. My journey started with brea
 
 ### 🤝 Connect With Me
 <p align="left">
-<a href="LINKEDIN" target="blank"><img align="center" src="https://www.linkedin.com/in/ayush-root?utm_source=share_via&utm_content=profile&utm_medium=member_android" alt="Ayush" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-root?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush" height="30" width="40" /></a>
 <a href="mailto:gt-ayush@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
 </p>
 
