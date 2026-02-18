@@ -18,8 +18,8 @@ I am a Persistence-Driven Developer and Linux enthusiast who loves low-level log
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-root?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-heavy)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vision-heavy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gt-ayush&layout=compact&theme=vision-heavy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gt-ayush&show_icons=true&theme=vision-heavy)
 <!--
 **gt-ayush/gt-ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
