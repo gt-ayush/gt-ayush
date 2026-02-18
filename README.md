@@ -11,7 +11,7 @@ I don't just write code; I **orchestrate systems**. My journey started with brea
 - 🚀 **Fast Mover:** If I don't know it today, I'll be an expert in it by next Monday.
 - 💡 **Limit Breaker:** Famous for building a full billing system using Python and Excel as a DB when SQL was out of reach.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ### 🛠️ Tech Skill Tree
 
@@ -21,7 +21,7 @@ I don't just write code; I **orchestrate systems**. My journey started with brea
 | ![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
 | ![Windows](https://img.shields.io/badge/-BIOS/UEFI_Admin-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ### 📊 My Technical "Vitals"
 
@@ -30,13 +30,13 @@ I don't just write code; I **orchestrate systems**. My journey started with brea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gt-ayush&layout=compact&theme=vision-heavy&border_radius=10" alt="Top Languages" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ### 🏆 Current Quest
 > **"Transitioning to Quantum-Safe Security"**
 > I am currently building a Post-Quantum Cryptography (PQC) scanning engine to audit system vulnerabilities against future quantum threats.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ### 🤝 Connect With Me
 <p align="left">
@@ -44,5 +44,6 @@ I don't just write code; I **orchestrate systems**. My journey started with brea
 <a href="mailto:gt-ayush@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
 *"Logic is the beginning of wisdom, not the end."*
