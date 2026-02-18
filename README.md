@@ -5,45 +5,70 @@
 </p>
 
 ### 👨‍💻 About Me
-I don't just write code; I **orchestrate systems**. My journey started with breaking a Windows 10 install as a kid and evolved into mastering the **C language in just 12 hours**. I thrive in the space between hardware and software.
+I am a **Systems-First Developer** with a passion for infrastructure and low-level logic. My journey started with breaking a Windows 10 install as a kid and evolved into mastering the **C language in just 12 hours**. I thrive in the space where hardware meets software.
 
 - 🐧 **Linux Enthusiast:** I live in the terminal (Arch/Manjaro).
-- 🚀 **Fast Mover:** If I don't know it today, I'll be an expert in it by next Monday.
-- 💡 **Limit Breaker:** Famous for building a full billing system using Python and Excel as a DB when SQL was out of reach.
+- 🚀 **Fast Mover:** Rapid adaptation to new tech stacks and logic structures.
+- 💡 **Limit Breaker:** Solution-oriented mindset (e.g., Python + Excel-DB architecture).
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-### 🛠️ Tech Skill Tree
+### 🧰 Full Technical Skill Tree
 
-| **Systems & Infrastructure** | **Programming Languages** | **Data & Networking** |
-| :--- | :--- | :--- |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![DNS](https://img.shields.io/badge/-DNS%20Systems-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| ![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![Windows](https://img.shields.io/badge/-BIOS/UEFI_Admin-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+<table width="100%">
+  <tr>
+    <th width="33%">💻 Programming</th>
+    <th width="33%">🌐 Networking & Security</th>
+    <th width="33%">⚙️ Systems & Admin</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • <b>C</b> (Logic & Performance)<br>
+      • <b>Python</b> (Scripting & Automation)<br>
+      • <b>Java</b> (OOP Fundamentals)<br>
+      • <b>JavaScript</b> (Frontend Logic)<br>
+      • <b>HTML5 & CSS3</b><br>
+      • <b>Shell Scripting</b> (Bash/Zsh)
+    </td>
+    <td valign="top">
+      • <b>DNS Management</b> (PowerDNS, Technitium)<br>
+      • <b>PQC Research</b> (Post-Quantum Crypto)<br>
+      • <b>Firewall Config</b> (TCP/UDP, Ports)<br>
+      • <b>TLS/SSL</b> Handshakes<br>
+      • <b>Nmap & SSLScan</b>
+    </td>
+    <td valign="top">
+      • <b>Linux Admin</b> (Arch, Manjaro, Ubuntu)<br>
+      • <b>BIOS/UEFI</b> Configuration<br>
+      • <b>OS Installation</b> (ISO/Rufus/Boot)<br>
+      • <b>SQL Databases</b> (PostgreSQL, MySQL)<br>
+      • <b>Legacy Logic</b> (Excel as a DB)
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-### 📊 My Technical "Vitals"
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gt-ayush&show_icons=true&theme=vision-heavy&border_radius=10" alt="Ayush's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gt-ayush&layout=compact&theme=vision-heavy&border_radius=10" alt="Top Languages" />
+### 🛠️ Tech Stack Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
-
-### 🏆 Current Quest
-> **"Transitioning to Quantum-Safe Security"**
-> I am currently building a Post-Quantum Cryptography (PQC) scanning engine to audit system vulnerabilities against future quantum threats.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ### 🤝 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-root?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush" height="30" width="40" /></a>
-<a href="mailto:gt-ayush@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
+<a href="mailto:gt-ayush@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-*"Logic is the beginning of wisdom, not the end."*
+<p align="center">
+  <i>"Logic is the beginning of wisdom, not the end."</i>
+</p>
