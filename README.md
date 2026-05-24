@@ -51,13 +51,31 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 ## 🤝 Connect With Me  
 
 <p align="center">
+  <b>Let’s swap ideas, debug stubborn bugs, or geek out about Linux!</b>  
+</p>
+
+<p align="center">
+  🌍 Curious about <a href="https://github.com/gt-ayush">system architecture</a>?  
+  🔐 Want to chat <a href="https://github.com/gt-ayush">cybersecurity</a>?  
+  🐧 Or just share <a href="https://github.com/gt-ayush">Linux tricks</a>?  
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ayush-root?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gt-ayush@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/gt-ayush" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <i>Drop me a message — I love connecting with fellow builders and learners!</i>
+</p>
+
 
 ---
 
