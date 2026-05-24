@@ -27,9 +27,10 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 
 ## 🧰 Full Technical Skill Tree  
 
-| 💻 Programming | 🌐 Networking & Security | ⚙️ Systems & Admin |
-|----------------|--------------------------|--------------------|
-| **C** (Logic & Performance)<br>**Python** (Automation)<br>**Java** (OOP)<br>**JavaScript** (Frontend)<br>**HTML5 & CSS3**<br>**Bash/Zsh** | **DNS Management** (PowerDNS, Technitium)<br>**Post‑Quantum Crypto Research**<br>**Firewall Config** (TCP/UDP)<br>**TLS/SSL Handshakes**<br>**Nmap & SSLScan** | **Linux Admin** (Arch, Debian)<br>**BIOS/UEFI Config**<br>**OS Installation** (ISO/Rufus/Boot)<br>**SQL Databases** (PostgreSQL, MySQL)<br>**Legacy Logic** (Excel as DB) |
+| **[Programming](ca://s?q=Tell_me_more_about_programming_skills)** | **[Networking & Security](ca://s?q=Tell_me_more_about_networking_and_security_skills)** | **[Systems & Infrastructure](ca://s?q=Tell_me_more_about_systems_and_infrastructure_skills)** |
+|-------------------------------|----------------------------------|----------------------------------|
+| • **C** (Logic & Performance)<br>• **Python** (Automation & Data)<br>• **Go** (Concurrency)<br>• **Java** (OOP)<br>• **JavaScript** (Frontend)<br>• **HTML5 & CSS3**<br>• **Bash/Zsh** (Scripting) | • **DNS Management** (PowerDNS, BIND)<br>• **Firewall Config** (TCP/UDP)<br>• **TLS/SSL Handshakes**<br>• **Nmap & SSLScan**<br>• **Post‑Quantum Cryptography Research** | • **Linux Admin** (Arch, Debian, Android)<br>• **BIOS/UEFI Config**<br>• **OS Installation** (ISO/Rufus/Boot)<br>• **SQL Databases** (PostgreSQL, MySQL)<br>• **Legacy Logic** (Excel as DB) |
+
 
 ---
 
