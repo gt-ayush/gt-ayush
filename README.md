@@ -7,11 +7,21 @@
 ---
 
 ## 👨‍💻 About Me  
-I am a **Systems‑First Developer** passionate about infrastructure and low‑level logic. My journey began with breaking a Windows 10 install as a kid and evolved into mastering **C in just 12 hours**. I thrive where hardware meets software, building solutions that balance performance and pragmatism.  
 
-- 🐧 **Linux Enthusiast** — Arch/Manjaro daily driver, living in the terminal.  
-- 🚀 **Fast Mover** — rapid adaptation to new stacks and logic structures.  
-- 💡 **Limit Breaker** — creative problem solver (e.g., Python + Excel‑DB architecture).  
+I’ve always been the kind of person who would rather spend **three hours understanding how something works** than thirty seconds just using it.  
+
+My journey started with chaos — bricking my first OS in 4th grade while tinkering with BIOS settings and Rufus. While most kids were gaming, I was learning how to fix what I broke. That fearless curiosity never left; it simply moved from the bedroom floor to the Linux terminal.  
+
+I call myself a **Chaos Learner** because I thrive when things move fast and the stakes are high. Whether it’s teaching myself **C in 12 hours** for a project or architecting a billing system with unconventional database logic, I’m at my best when building working solutions under pressure.  
+
+### 🔧 The Technical Stuff I Live For
+- **[Systems & Infrastructure](ca://s?q=Tell_me_more_about_systems_and_infrastructure):** Linux enthusiast (Arch/Manjaro/Debian/Android), Shell scripting, DNS management (PowerDNS, BIND).  
+- **[Development](ca://s?q=Tell_me_more_about_development_focus):** Backend stability and clean logic with Python, C, Java, and Go.  
+- **[Security](ca://s?q=Tell_me_more_about_security_background):** From configuring firewalls for Minecraft servers to researching Post‑Quantum Cryptography (PQC).  
+
+I believe **great code is useless without great documentation**. Right now, I’m bridging the gap between my hands‑on tinkering past and deep theoretical architecture as I work toward a career in **DevOps and Cybersecurity**.  
+
+If you’re looking for someone who actually enjoys a complex terminal or a “limit breaker” challenge, let’s connect. I’m always up for conversations about **system architecture**, the **future of security**, or a particularly stubborn bug.
 
 ---
 
