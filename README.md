@@ -53,13 +53,14 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <b>Let’s swap ideas, debug stubborn bugs, or geek out about Linux!</b>  
+  <b>Ready to build resilient systems, solve security challenges, or level up your Linux workflow?</b><br>
+  <span>Let’s connect if you want to collaborate, learn together, or tackle something real.</span>
 </p>
 
 <p align="center">
-  🌍 Curious about <a href="https://github.com/gt-ayush">system architecture</a>?  
-  🔐 Want to chat <a href="https://github.com/gt-ayush">cybersecurity</a>?  
-  🐧 Or just share <a href="https://github.com/gt-ayush">Linux tricks</a>?  
+  🌐 Want to talk system architecture, automation, or infrastructure design?<br>
+  🔐 Curious about cybersecurity, PQC, or threat modeling?<br>
+  🐧 Looking for Linux tips, shell workflows, or low-level engineering ideas?
 </p>
 
 <p align="center">
@@ -75,7 +76,7 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 </p>
 
 <p align="center">
-  <i>Drop me a message — I love connecting with fellow builders and learners!</i>
+  <i>Best way to reach me: LinkedIn, email, or GitHub — I’m always open to new ideas and collaborations.</i>
 </p>
 
 
