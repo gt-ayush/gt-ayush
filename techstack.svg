@@ -1,0 +1,45 @@
+<!-- Save this as techstack.svg in your repo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200">
+  <style>
+    .badge {
+      font: bold 16px Arial, sans-serif;
+      fill: white;
+    }
+    .box {
+      rx: 8;
+      ry: 8;
+      stroke: none;
+    }
+    .badge:hover {
+      filter: drop-shadow(0px 4px 6px rgba(0,0,0,0.3));
+    }
+  </style>
+
+  <!-- Linux -->
+  <rect x="20" y="30" width="100" height="40" class="box" fill="#FCC624"/>
+  <text x="70" y="55" text-anchor="middle" class="badge" fill="black">🐧 Linux</text>
+
+  <!-- Python -->
+  <rect x="140" y="30" width="120" height="40" class="box" fill="#3776AB"/>
+  <text x="200" y="55" text-anchor="middle" class="badge">🐍 Python</text>
+
+  <!-- C -->
+  <rect x="280" y="30" width="80" height="40" class="box" fill="#A8B9CC"/>
+  <text x="320" y="55" text-anchor="middle" class="badge">⚙️ C</text>
+
+  <!-- Go -->
+  <rect x="380" y="30" width="100" height="40" class="box" fill="#00ADD8"/>
+  <text x="430" y="55" text-anchor="middle" class="badge">🚀 Go</text>
+
+  <!-- PostgreSQL -->
+  <rect x="20" y="100" width="140" height="40" class="box" fill="#336791"/>
+  <text x="90" y="125" text-anchor="middle" class="badge">🗄️ PostgreSQL</text>
+
+  <!-- Bash -->
+  <rect x="180" y="100" width="100" height="40" class="box" fill="#4EAA25"/>
+  <text x="230" y="125" text-anchor="middle" class="badge">📜 Bash</text>
+
+  <!-- Nmap -->
+  <rect x="300" y="100" width="100" height="40" class="box" fill="#4F5D95"/>
+  <text x="350" y="125" text-anchor="middle" class="badge">🔎 Nmap</text>
+</svg>
