@@ -1,7 +1,15 @@
 # ⚡ gt-ayush | The Chaos Learner  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hii!%20I'm%20Ayush&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Ayush&fontSize=50&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <b>Systems‑First Developer • Chaos Learner • Limit Breaker</b>  
+</p>
+
+<p align="center">
+  <i>“I’d rather spend three hours figuring out how something works than thirty seconds just using it.”</i>  
 </p>
 
 ---
