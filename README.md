@@ -82,6 +82,13 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 
 ---
 
+## 💭 Thought for the Day
+
+<!-- THOUGHT_FOR_THE_DAY_START -->
+**Sunday**
+> Rest is not laziness; it is preparation for the next beginning.
+<!-- THOUGHT_FOR_THE_DAY_END -->
+
 <p align="center">
   <i>"Logic is the beginning of wisdom, not the end."</i>
 </p>
