@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+<h2 align="center">✨ 👨‍💻 About Me ✨</h2>
 
 I’ve always been the kind of person who would rather spend **three hours understanding how something works** than thirty seconds just using it.  
 
@@ -22,7 +22,7 @@ My journey started with chaos — bricking my first OS in 4th grade while tinker
 
 I call myself a **Chaos Learner** because I thrive when things move fast and the stakes are high. Whether it’s teaching myself **C in 12 hours** for a project or architecting a billing system with unconventional database logic, I’m at my best when building working solutions under pressure.  
 
-### 🔧 The Technical Stuff I Live For
+<h3 align="center">🔧 The Technical Stuff I Live For — Tools & Focus</h3>
 - **[Systems & Infrastructure](ca://s?q=Tell_me_more_about_systems_and_infrastructure):** Linux enthusiast (Arch/Manjaro/Debian/Android), Shell scripting, DNS management (PowerDNS, BIND).  
 - **[Development](ca://s?q=Tell_me_more_about_development_focus):** Backend stability and clean logic with Python, C, Java, and Go.  
 - **[Security](ca://s?q=Tell_me_more_about_security_background):** From configuring firewalls for Minecraft servers to researching Post‑Quantum Cryptography (PQC).  
@@ -33,7 +33,7 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 
 ---
 
-## 🧰 Full Technical Skill Tree  
+<h2 align="center">✨ 🧰 Full Technical Skill Tree ✨</h2>
 
 | **[Programming](ca://s?q=Tell_me_more_about_programming_skills)** | **[Networking & Security](ca://s?q=Tell_me_more_about_networking_and_security_skills)** | **[Systems & Infrastructure](ca://s?q=Tell_me_more_about_systems_and_infrastructure_skills)** |
 |-------------------------------|----------------------------------|----------------------------------|
@@ -42,7 +42,7 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 
 ---
 
-## 🛠️ Tech Stack Showcase  
+<h2 align="center">🛠️ Tech Stack Showcase — Tools I Use</h2>
 <p align="center">
   <img src="techstack.svg" alt="Tech Stack Badges" />
 </p>
@@ -50,7 +50,7 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 
 ---
 
-## 🤝 Connect With Me  
+<h2 align="center">🤝 Connect With Me — Let's Collaborate</h2>
 
 <p align="center">
   <b>Ready to build resilient systems, solve security challenges, or level up your Linux workflow?</b><br>
@@ -82,7 +82,7 @@ If you’re looking for someone who actually enjoys a complex terminal or a “l
 
 ---
 
-## 💭 Thought for the Day
+<h2 align="center">💭 Thought for the Day — Today's Thought</h2>
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
 **Sunday**
