@@ -47,9 +47,9 @@ I believe **great code is useless without great documentation**. I’m bridging 
 
 ## 2 Full Technical Skill Tree
 
-| Programming | Networking & Security | Systems & Infrastructure |
-|-------------|----------------------|--------------------------|
-| C, Python, Go, Java, JavaScript, HTML5 & CSS3, Bash/Zsh | DNS Management (PowerDNS, BIND), Firewall Config, TLS/SSL, Nmap & SSLScan, PQC research | Linux Admin (Arch, Debian), BIOS/UEFI, OS Installation, SQL (Postgres, MySQL), legacy logic |
+| **[Programming](ca://s?q=Tell_me_more_about_programming_skills)** | **[Networking & Security](ca://s?q=Tell_me_more_about_networking_and_security_skills)** | **[Systems & Infrastructure](ca://s?q=Tell_me_more_about_systems_and_infrastructure_skills)** |
+|-------------------------------|----------------------------------|----------------------------------|
+| • **C** (Logic & Performance)<br>• **Python** (Automation & Data)<br>• **Go** (Concurrency)<br>• **Java** (OOP)<br>• **JavaScript** (Frontend)<br>• **HTML5 & CSS3**<br>• **Bash/Zsh** (Scripting) | • **DNS Management** (PowerDNS, BIND)<br>• **Firewall Config** (TCP/UDP)<br>• **TLS/SSL Handshakes**<br>• **Nmap & SSLScan**<br>• **Post‑Quantum Cryptography Research** | • **Linux Admin** (Arch, Debian, Android)<br>• **BIOS/UEFI Config**<br>• **OS Installation** (ISO/Rufus/Boot)<br>• **SQL Databases** (PostgreSQL, MySQL)<br>• **Legacy Logic** (Excel as DB) |
 
 ---
 
