@@ -88,8 +88,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5 Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Sunday**
-> Rest is not laziness; it is preparation for the next beginning.
+**Monday**
+> Start the week with clarity and one meaningful step.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
