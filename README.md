@@ -88,8 +88,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5 Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Tuesday**
-> Small consistent actions build extraordinary momentum.
+**Wednesday**
+> Progress is often just showing up again with intention.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
