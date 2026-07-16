@@ -38,7 +38,7 @@ I call myself a **Chaos Learner** because I thrive when things move fast and the
 
 ### 1.1 Technical Focus
 - **Systems & Infrastructure:** Linux (Arch/Manjaro/Debian/Android), Shell scripting, DNS (PowerDNS, BIND)
-- **Development:** Python, C, Java, Go — backend stability and clear logic
+- **Development:** Python, C, C++, Javascript, Java, Go — backend stability and clear logic
 - **Security:** Firewalls, threat research, Post‑Quantum Cryptography (PQC)
 
 I believe **great code is useless without great documentation**. I’m bridging hands‑on tinkering with theoretical architecture while working toward DevOps and Cybersecurity roles.
