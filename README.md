@@ -67,9 +67,6 @@ The diagram below summarizes tooling and libraries commonly used in projects:
 
 Ready to build resilient systems, solve security challenges, or level up Linux workflows. Connect via LinkedIn, email, or GitHub.
 
-- LinkedIn: https://www.linkedin.com/in/ayush-root
-- Email: gt-ayush@outlook.com
-- GitHub: https://github.com/gt-ayush
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-root" target="_blank">
