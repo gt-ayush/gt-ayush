@@ -30,7 +30,7 @@ This document is a concise professional report describing background, technical 
 
 ---
 
-## 1 Introduction
+## 1. Introduction
 
 I’ve always been the kind of person who would rather spend **three hours understanding how something works** than thirty seconds just using it. My journey started with chaos — bricking my first OS in 4th grade while tinkering with BIOS settings and Rufus. That fearless curiosity moved from the bedroom floor to the Linux terminal.
 
@@ -45,7 +45,7 @@ I believe **great code is useless without great documentation**. I’m bridging 
 
 ---
 
-## 2 Full Technical Skill Tree
+## 2. Full Technical Skill Tree
 
 | **[Programming](ca://s?q=Tell_me_more_about_programming_skills)** | **[Networking & Security](ca://s?q=Tell_me_more_about_networking_and_security_skills)** | **[Systems & Infrastructure](ca://s?q=Tell_me_more_about_systems_and_infrastructure_skills)** |
 |-------------------------------|----------------------------------|----------------------------------|
@@ -53,7 +53,7 @@ I believe **great code is useless without great documentation**. I’m bridging 
 
 ---
 
-## 3 Tech Stack Showcase
+## 3. Tech Stack Showcase
 
 The diagram below summarizes tooling and libraries commonly used in projects:
 
@@ -63,7 +63,7 @@ The diagram below summarizes tooling and libraries commonly used in projects:
 
 ---
 
-## 4 Contact & Collaboration
+## 4. Contact & Collaboration
 
 Ready to build resilient systems, solve security challenges, or level up Linux workflows. Connect via LinkedIn, email, or GitHub.
 
@@ -85,7 +85,7 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 
 ---
 
-## 5 Thought for the Day
+## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
 **Thursday**
