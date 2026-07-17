@@ -2,7 +2,7 @@ name: Update Thought for the Day
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 permissions:
