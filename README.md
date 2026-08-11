@@ -55,7 +55,7 @@ I believe **great code is useless without great documentation**. I’m bridging 
 
 ## 3. Tech Stack Showcase
 
-The diagram below highlights the tools and libraries I commonly use across my projects:
+The diagram below highlights the tools and software I commonly use across my projects:
 
 <p align="center">
   <img src="techstack.svg" alt="Tech Stack Badges" />
