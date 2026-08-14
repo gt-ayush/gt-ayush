@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Thursday**
-> A calm mind makes better decisions than a hurried one.
+**Friday**
+> Finish the week by shipping what matters and leaving room to breathe.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
