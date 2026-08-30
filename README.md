@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Saturday**
-> Use your energy to create, explore, and restore yourself.
+**Sunday**
+> Rest is not laziness; it is preparation for the next beginning.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
