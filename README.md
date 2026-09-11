@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Thursday**
-> Take a step back. Sometimes the solution is obvious from a distance.
+**Friday**
+> Don't forget to hydrate and stretch!
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
