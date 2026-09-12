@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Friday**
-> Don't forget to hydrate and stretch!
+**Saturday**
+> The best time to plant a tree was 20 years ago. The second best time is now.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
