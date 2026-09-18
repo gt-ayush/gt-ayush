@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Thursday**
-> The best time to plant a tree was 20 years ago. The second best time is now.
+**Friday**
+> Friday is for reflecting on wins and preparing for rest.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
