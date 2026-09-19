@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Friday**
-> Friday is for reflecting on wins and preparing for rest.
+**Saturday**
+> Use your energy to create, explore, and restore yourself.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
