@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Thursday**
-> Don't forget to hydrate and stretch!
+**Friday**
+> Simplicity is the soul of efficiency.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
