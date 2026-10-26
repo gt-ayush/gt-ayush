@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Sunday**
-> A Sunday well spent brings a week of content.
+**Monday**
+> Simplicity is the soul of efficiency.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
