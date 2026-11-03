@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Monday**
-> Set the tone for the week today with focus and purpose.
+**Tuesday**
+> Stay curious and keep learning.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
