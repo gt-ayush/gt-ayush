@@ -85,8 +85,8 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Wednesday**
-> Hump day is just a reminder of how far you've come this week.
+**Thursday**
+> A calm mind makes better decisions than a hurried one.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
 <p align="center">
