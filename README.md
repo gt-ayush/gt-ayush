@@ -85,7 +85,7 @@ Ready to build resilient systems, solve security challenges, or level up Linux w
 ## 5. Thought for the Day
 
 <!-- THOUGHT_FOR_THE_DAY_START -->
-**Monday**
+**Tuesday**
 > Code is poetry written for machines.
 <!-- THOUGHT_FOR_THE_DAY_END -->
 
